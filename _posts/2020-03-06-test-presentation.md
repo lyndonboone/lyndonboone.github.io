@@ -3,7 +3,7 @@ layout: post
 title: Test presentation
 excerpt: "Test excerpt"
 modified: 2020-03-06 10:22:00
-tags: []
+tags: [presentation]
 comments: true
 category: presentation
 ---
