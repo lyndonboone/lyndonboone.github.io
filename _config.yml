@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Lyndon Boone
+title: Lyndon Boone's Homepage
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Lyndon Boone
   avatar: headshot1.PNG
-  bio: "A brief description of yourself."
+  bio: "Undergraduate Engineering Science student at the University of Toronto."
   email: lyndonboone8@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: lyndonboone8
