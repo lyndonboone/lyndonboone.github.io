@@ -2,9 +2,9 @@
 layout: page
 ---
 
-Please see the current version of my CV embedded below.
+Please see the current version of my resume embedded below.
 
-<iframe src="https://drive.google.com/file/d/1Z0rJIGS_gMIEGMHipGnoLnMZdBZwcJIC/preview" width="800" height="1200"></iframe>
+<iframe src="https://drive.google.com/file/d/1TnqbI5m0rcjBqSx-18_7zAmPL-EspTv-/preview" width="800" height="1200"></iframe>
 
 <!-- ### Footer
 
