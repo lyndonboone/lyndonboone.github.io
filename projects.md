@@ -1,4 +1,4 @@
 ---
-layout: post-index
+layout: project-post-index
 title: Projects
 ---
